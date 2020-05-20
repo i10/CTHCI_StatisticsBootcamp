@@ -1,4 +1,4 @@
-# Current Topics in Media Computing and HCI SoSe 2020 | Statistics Bootcamp
+# Current Topics in Media Computing and HCI | SoSe 2020 | Statistics Bootcamp
 
 This repository consists of datasets used in the statistics bootcamp lab, analysis script (`pills analysis.R`), and the decision tree of statistical test selection. 
 
